@@ -9,7 +9,7 @@
 </script>
 
 <template>
-  <div>
+  <div id="app">
     <AppHeader />
 
     <div class="container mt-3">
@@ -19,9 +19,9 @@
 </template>
 
 <style>
-  #app{
+  /* #app{
     height: 100vh;
-  }
+  } */
   .page {
     max-width: 400px;
     margin: auto;
