@@ -19,9 +19,6 @@
 </template>
 
 <style>
-  /* #app{
-    height: 100vh;
-  } */
   .page {
     max-width: 400px;
     margin: auto;
